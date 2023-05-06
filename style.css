@@ -1,0 +1,14 @@
+body{
+ text-align: center;
+ background-color: aliceblue;
+ background-image: url("https://previews.123rf.com/images/detshana/detshana2003/detshana200300105/141940929-white-marble-wallpaper-background-abstract.jpg");
+ background-size: cover;
+ background-position: center;
+ background-repeat: no-repeat;
+}
+#status{
+ background-color: cadetblue;
+}
+#Object{
+background-color: darkcyan;
+}
